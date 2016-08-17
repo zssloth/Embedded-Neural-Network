@@ -14,6 +14,7 @@
 
 ### **Teacher-Student Mechanism (Distilling)**
 - Distilling the Knowledge in a Neural Network. (Google Inc)
+
 ### **Fixed-precision training and storage**
 
 ### **Low-rank matrix factorization**
