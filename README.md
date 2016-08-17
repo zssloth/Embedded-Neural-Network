@@ -1,5 +1,6 @@
 # **Papers Reading List.**
-- **Notes can be found in my [blog](https://zhishengwang.github.io/Neural-Network-Notes/).**
+- This is a collection of papers aiming at reducing model sizes or the implementation of accelerator for Machine Learning, expecially deep neural networks.
+- **Notes can be found in my personal [blog](https://zhishengwang.github.io/Neural-Network-Notes/).**
 
 ##  **Network Compression**
 
