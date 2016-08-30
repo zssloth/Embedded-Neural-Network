@@ -27,3 +27,8 @@
 - Dynamic Network Surgery for Efficient DNNs. (Intel)
 
 ### **Low-rank matrix factorization**
+
+## **Hardware Accelerator**
+### **Benchmark and Platform Analysis**
+- Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
+- Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
