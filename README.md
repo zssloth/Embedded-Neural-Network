@@ -28,6 +28,9 @@
 
 ### **Low-rank matrix factorization**
 
+##  **Conditional Computing**
+- Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind@Alex Graves)
+
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
 - Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
