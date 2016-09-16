@@ -8,6 +8,7 @@
 - **structured matrices**
    - Structured Convolution Matrices for Energy-efficient Deep learning. (IBM Research–Almaden)
    - Structured Transforms for Small-Footprint Deep Learning. (Google Inc)
+   - An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections.
 - **Hashing**
    - Functional Hashing for Compressing Neural Networks. (Baidu Inc)
    - Compressing Neural Networks with the Hashing Trick. (Washington University + NVIDIA)
@@ -20,6 +21,7 @@
    - XNOR-Net, Ternary Weight Networks (TWNs), Binary-net and their variants.
    - Recurrent Neural Networks With Limited Numerical Precision. (ETH Zurich + Montréal@Yoshua Bengio)
    - Neural Networks with Few Multiplications. (Montréal@Yoshua Bengio)
+- 1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs. (Tsinghua University + Microsoft)
 
 ### **Sparsity regularizers & Pruning**
 - Learning both Weights and Connections for Efficient Neural Networks. (SongHan, Stanford University)
