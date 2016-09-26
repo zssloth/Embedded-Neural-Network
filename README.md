@@ -1,7 +1,6 @@
 # **Papers Reading List.**
 - This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, expecially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md))
 - Notes can be found in my personal [blog](https://zhishengwang.github.io/Neural-Network-Notes/). (**TODO**)
-- New commits will mark with red.
 
 ##  **Network Compression**
 
@@ -38,4 +37,4 @@
 ### **Benchmark and Platform Analysis**
 - Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
 - Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
-- <font color=red>Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)</font>
+- **Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)**
