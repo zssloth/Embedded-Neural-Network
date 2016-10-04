@@ -39,9 +39,9 @@
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
 - Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
-- Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
-- Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
 - DeepBench: Open-Source Tool for benchmarking DL operations. (svail.github.io-Baidu)
 
 ### **Recurrent Neural Networks**
 - FPGA-based Low-power Speech Recognition with Recurrent Neural Networks. (Seoul National University)
+- Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
+- Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
