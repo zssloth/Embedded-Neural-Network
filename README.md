@@ -3,7 +3,6 @@
 - Notes can be found in my personal [blog](https://zhishengwang.github.io/Neural-Network-Notes/). (**TODO**)
 
 ##  **Network Compression**
-
 ### **Parameter Sharing**
 - **structured matrices**
    - Structured Convolution Matrices for Energy-efficient Deep learning. (IBM Research–Almaden)
@@ -27,8 +26,12 @@
 - Learning both Weights and Connections for Efficient Neural Networks. (SongHan, Stanford University)
 - Deep Compression, EIE. (SongHan, Stanford University)
 - Dynamic Network Surgery for Efficient DNNs. (Intel)
+- Compression of Neural Machine Translation Models via Pruning. (Stanford University)
 
 ### **Low-rank matrix factorization**
+### **Others (Mixing of several methods)**
+- Learning compact recurrent neural networks. (University of Southern California + Google)
+- Accelerating Deep Convolutional Networks using low-precision and sparsity. (Intel)
 
 ##  **Conditional Computing**
 - Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind@Alex Graves)
@@ -37,4 +40,8 @@
 ### **Benchmark and Platform Analysis**
 - Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
 - Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
-- **Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)**
+- Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
+- DeepBench: Open-Source Tool for benchmarking DL operations. (svail.github.io-Baidu)
+
+### **Recurrent Neural Networks**
+- FPGA-based Low-power Speech Recognition with Recurrent Neural Networks. (Seoul National University)
