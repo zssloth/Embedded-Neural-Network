@@ -22,6 +22,7 @@
    - Recurrent Neural Networks With Limited Numerical Precision. (ETH Zurich + Montréal@Yoshua Bengio)
    - Neural Networks with Few Multiplications. (Montréal@Yoshua Bengio)
 - 1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs. (Tsinghua University + Microsoft)
+- Towards the Limit of Network Quantization. (Samsung US R&D Center)
 
 ### **Sparsity regularizers & Pruning**
 - Learning both Weights and Connections for Efficient Neural Networks. (SongHan, Stanford University)
@@ -29,6 +30,8 @@
 - Dynamic Network Surgery for Efficient DNNs. (Intel)
 - Compression of Neural Machine Translation Models via Pruning. (Stanford University)
 - Accelerating Deep Convolutional Networks using low-precision and sparsity. (Intel)
+- Faster CNNs with Direct Sparse Convolutions and Guided Pruning. (Intel)
+- Training Long Short-Term Memory With Sparsified Stochastic Gradient Descent. (University of California +　NVIDIA)
 
 ### **Low-rank matrix factorization**
 - Learning compact recurrent neural networks. (University of Southern California + Google)
