@@ -15,6 +15,7 @@
 
 ### **Teacher-Student Mechanism (Distilling)**
 - Distilling the Knowledge in a Neural Network. (Google Inc)
+- Sequence-Level Knowledge Distillation. (Harvard University)
 
 ### **Fixed-precision training and storage**
 - Deep neural networks are robust to weight binarization and other non-linear distortions. (IBM Research–Almaden)
@@ -36,8 +37,10 @@
 ### **Low-rank matrix factorization**
 - Learning compact recurrent neural networks. (University of Southern California + Google)
 
-##  **Conditional Computing**
+##  **Conditional (Adaptive) Computing**
 - Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind@Alex Graves)
+- Learning to Reason with Adaptive Computation. (University College London)
+- Variable Computation in Recurrent Neural Networks. (New York University + Facebook AI Research)
 
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
@@ -47,7 +50,9 @@
 ### **Recurrent Neural Networks**
 - FPGA-based Low-power Speech Recognition with Recurrent Neural Networks. (Seoul National University)
 - Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
-- Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
+- ESE: Efficient Speech Recognition Engine with Compressed LSTM on FPGA. (Song Han, Stanford University, etc.)
 
 ### **Convolutional Neural Networks**
 - Caffeinated FPGAs: FPGA Framework For Convolutional Neural Networks
+- Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
+- FINN: A Framework for Fast, Scalable Binarized Neural Network Inference. (Xilinx Research Labs, etc.)
