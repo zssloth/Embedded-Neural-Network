@@ -39,8 +39,9 @@
 
 ##  **Conditional (Adaptive) Computing**
 - Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind@Alex Graves)
-- Learning to Reason with Adaptive Computation. (University College London)
 - Variable Computation in Recurrent Neural Networks. (New York University + Facebook AI Research)
+- Spatially Adaptive Computation Time for Residual Networks. (Google, etc.)
+- Hierarchical Multiscale Recurrent Neural Networks. (Montréal)
 
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
