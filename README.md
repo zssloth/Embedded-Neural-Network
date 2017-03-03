@@ -8,6 +8,7 @@
    - Structured Convolution Matrices for Energy-efficient Deep learning. (IBM Research–Almaden)
    - Structured Transforms for Small-Footprint Deep Learning. (Google Inc)
    - An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections.
+   - Theoretical Properties for Neural Networks with Weight Matrices of Low Displacement Rank.
 - **Hashing**
    - Functional Hashing for Compressing Neural Networks. (Baidu Inc)
    - Compressing Neural Networks with the Hashing Trick. (Washington University + NVIDIA)
@@ -44,7 +45,9 @@
 
 ### **Low-rank matrix factorization & Tensor Decomposition**
 - Learning compact recurrent neural networks. (University of Southern California + Google)
-- **Others coming soon!**
+- Tensorizing Neural Networks. (Skolkovo Institute of Science and Technology, etc)
+- Ultimate tensorization_compressing convolutional and FC layers alike. (Moscow State University, etc)
+- **Others coming soon.**
 
 ##  **Conditional (Adaptive) Computing**
 - Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind@Alex Graves)
@@ -52,7 +55,7 @@
 - Spatially Adaptive Computation Time for Residual Networks. (Google, etc.)
 - Hierarchical Multiscale Recurrent Neural Networks. (Montréal)
 - Outrageously Large Neural Networks_The Sparsely-Gated Mixture-of-Experts Layer. (Google Brain + Jagiellonian University)
-
+- Adaptive Neural Networks for Fast Test-Time Prediction. (Boston University, etc)
 
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
