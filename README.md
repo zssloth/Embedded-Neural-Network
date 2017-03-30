@@ -44,19 +44,24 @@
 - Training Compressed Fully-Connected Networks with a Density-Diversity Penalty. (University of Washington)
 
 ### **Low-rank matrix factorization & Tensor Decomposition**
+- Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications. (Samsung, etc)
 - Learning compact recurrent neural networks. (University of Southern California + Google)
 - Tensorizing Neural Networks. (Skolkovo Institute of Science and Technology, etc)
 - Ultimate tensorization_compressing convolutional and FC layers alike. (Moscow State University, etc)
-- **Others coming soon.**
+- Efficient and Accurate Approximations of Nonlinear Convolutional Networks. (@CVPR2015)
+- Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation. (New York University, etc.)
+- Convolutional neural networks with low-rank regularization. (Princeton University, etc.)
+- **Learning with Tensors: Why Now and How?** (Tensor-Learn Workshop @ NIPS'16)
 
 ##  **Conditional (Adaptive) Computing**
 - Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind@Alex Graves)
 - Variable Computation in Recurrent Neural Networks. (New York University + Facebook AI Research)
-- Spatially Adaptive Computation Time for Residual Networks. (Google, etc.)
+- Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact) Google, etc.)
 - Hierarchical Multiscale Recurrent Neural Networks. (Montréal)
-- Outrageously Large Neural Networks_The Sparsely-Gated Mixture-of-Experts Layer. (Google Brain + Jagiellonian University)
+- Outrageously Large Neural Networks_The Sparsely-Gated Mixture-of-Experts Layer. (Google Brain, etc.)
 - Adaptive Neural Networks for Fast Test-Time Prediction. (Boston University, etc)
-
+- Dynamic Deep Neural Networks_Optimizing Accuracy-Efficiency Trade-offs by Selective Execution. (University of Michigan)
+- **Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation**. (@Yoshua Bengio)
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
 - Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
