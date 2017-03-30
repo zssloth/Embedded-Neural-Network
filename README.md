@@ -39,7 +39,7 @@
 - Exploring Sparsity in Recurrent Neural Networks. (Baidu Research)
 - Pruning Convolutional Neural Networks for Resource Efficient Inference. (NVIDIA)
 - Pruning Filters for Efficient ConvNets. (University of Maryland + NEC Labs America)
-- Soft Weight-Sharing for Neural Network Compression. (University of Amsterdam)
+- Soft Weight-Sharing for Neural Network Compression. (University of Amsterdam, [reddit discussion](https://www.reddit.com/r/MachineLearning/comments/5u7h3l/r_compressing_nn_with_shannons_blessing/))
 - Sparsely-Connected Neural Networks_Towards Efficient VLSI Implementation of Deep Neural Networks. (McGill University)
 - Training Compressed Fully-Connected Networks with a Density-Diversity Penalty. (University of Washington)
 
