@@ -70,7 +70,7 @@
 ##  **Conditional (Adaptive) Computing**
 - Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind@Alex Graves)
 - Variable Computation in Recurrent Neural Networks. (New York University + Facebook AI Research)
-- Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact) Google, etc.)
+- Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact), Google, etc.)
 - Hierarchical Multiscale Recurrent Neural Networks. (Montréal)
 - Outrageously Large Neural Networks_The Sparsely-Gated Mixture-of-Experts Layer. (Google Brain, etc.)
 - Adaptive Neural Networks for Fast Test-Time Prediction. (Boston University, etc)
