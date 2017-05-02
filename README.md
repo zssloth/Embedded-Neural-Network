@@ -1,6 +1,21 @@
 # **Papers Reading List.**
 - This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md))
-- Notes can be found in my personal blog. (**TODO**)
+- (Update: 2017-05-02) New papers will be collected by conferences.
+
+## **Table of Contents**
+- [Network Compression](#network-compression)
+   - Parameter Sharing
+   - Teacher-Student Mechanism (Distilling)
+   - Fixed-precision training and storage
+   - Sparsity regularizers & Pruning
+   - Tensor Decomposition
+   - Conditional (Adaptive) Computing
+- [Hardware Accelerator](#hardware-accelerator)
+   - Benchmark and Platform Analysis
+   - Recurrent Neural Networks
+   - Convolutional Neural Networks
+- [Conference Papers](#conference-papers)
+   - [2017 ICASSP](#2017-icassp)
 
 ##  **Network Compression**
 ### **Parameter Sharing**
@@ -43,7 +58,7 @@
 - Sparsely-Connected Neural Networks_Towards Efficient VLSI Implementation of Deep Neural Networks. (McGill University)
 - Training Compressed Fully-Connected Networks with a Density-Diversity Penalty. (University of Washington)
 
-### **Low-rank matrix factorization & Tensor Decomposition**
+### **Tensor Decomposition**
 - Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications. (Samsung, etc)
 - Learning compact recurrent neural networks. (University of Southern California + Google)
 - Tensorizing Neural Networks. (Skolkovo Institute of Science and Technology, etc)
@@ -76,3 +91,19 @@
 - Caffeinated FPGAs: FPGA Framework For Convolutional Neural Networks
 - Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
 - FINN: A Framework for Fast, Scalable Binarized Neural Network Inference. (Xilinx Research Labs, etc.)
+
+## **Conference Papers**
+
+### **2017 ICASSP**
+-	lognet: energy-efficient neural networks using logarithmic computation
+-	investigations on byte-level convolutional neural networks for language modeling in low resource speech recognition
+-	extended low rank plus diagonal adaptation for deep and recurrent neural networks
+-	fixed-point optimization of deep neural networks with adaptive step size retraining
+-	harnessing neural networks: a random matrix approach
+-	implementation of efficient, low power deep neural networks on next-generation intel client platforms
+-	low-rank and sparse soft targets to learn better dnn acoustic models
+-	knowledge distillation for small-footprint highway networks
+-	exploiting sequential low-rank factorization for multilingual dnns
+-	the group k-support norm for learning with structured sparsity
+-	automatic node selection for deep neural networks using group lasso regularization
+-	accelerating deep convolutional networks using low-precision and sparsity
