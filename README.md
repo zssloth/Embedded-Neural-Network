@@ -1,6 +1,5 @@
 # **Papers Reading List.**
 - This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md))
-- (Update: 2017-05-02) New papers will be collected by conferences.
 
 ## **Table of Contents**
 - [Network Compression](#network-compression)
