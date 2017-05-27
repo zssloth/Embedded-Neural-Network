@@ -9,12 +9,14 @@
    - Sparsity regularizers & Pruning
    - Tensor Decomposition
    - Conditional (Adaptive) Computing
+   - Compression through Bayesian Method
 - [Hardware Accelerator](#hardware-accelerator)
    - Benchmark and Platform Analysis
    - Recurrent Neural Networks
-   - Convolutional Neural Networks
 - [Conference Papers](#conference-papers)
-   - [2017 ICASSP](#2017-icassp)
+   - [NIPS 2016](#nips-2016)
+   - [ICASSP 2017](#icassp-2017)
+   - [ICML 2017](#icml-2017)
 
 ##  **Network Compression**
 ### **Parameter Sharing**
@@ -33,10 +35,11 @@
 - Sequence-Level Knowledge Distillation. (Harvard University)
 
 ### **Fixed-precision training and storage**
-- Deep neural networks are robust to weight binarization and other non-linear distortions. (IBM Research–Almaden)
+- Binary/Ternary Neural Networks
    - XNOR-Net, Ternary Weight Networks (TWNs), Binary-net and their variants.
-   - Recurrent Neural Networks With Limited Numerical Precision. (ETH Zurich + Montréal@Yoshua Bengio)
-   - Neural Networks with Few Multiplications. (Montréal@Yoshua Bengio)
+- Deep neural networks are robust to weight binarization and other non-linear distortions. (IBM Research–Almaden)
+- Recurrent Neural Networks With Limited Numerical Precision. (ETH Zurich + Montréal@Yoshua Bengio)
+- Neural Networks with Few Multiplications. (Montréal@Yoshua Bengio)
 - 1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs. (Tsinghua University + Microsoft)
 - Towards the Limit of Network Quantization. (Samsung US R&D Center)
 - Incremental Network Quantization_Towards Lossless CNNs with Low-precision Weights. (Intel Labs China)
@@ -76,6 +79,10 @@
 - Adaptive Neural Networks for Fast Test-Time Prediction. (Boston University, etc)
 - Dynamic Deep Neural Networks_Optimizing Accuracy-Efficiency Trade-offs by Selective Execution. (University of Michigan)
 - **Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation**. (@Yoshua Bengio)
+
+## **Bayesian Compression**
+- To be updatted.
+
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
 - Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
@@ -84,16 +91,22 @@
 ### **Recurrent Neural Networks**
 - FPGA-based Low-power Speech Recognition with Recurrent Neural Networks. (Seoul National University)
 - Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
-- ESE: Efficient Speech Recognition Engine with Compressed LSTM on FPGA. (Song Han, Stanford University, etc.)
+- ESE: Efficient Speech Recognition Engine with Compressed LSTM on FPGA. (FPGA 2017, Best Paper Award)
+- DNPU: An 8.1TOPS/W Reconfigurable CNN-RNN Processor for GeneralPurpose Deep Neural Networks. (KAIST, ISSCC 2017)
 
 ### **Convolutional Neural Networks**
-- Caffeinated FPGAs: FPGA Framework For Convolutional Neural Networks
-- Accelerating Binarized Neural Networks: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
-- FINN: A Framework for Fast, Scalable Binarized Neural Network Inference. (Xilinx Research Labs, etc.)
+- Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md)
 
 ## **Conference Papers**
 
-### **2017 ICASSP**
+### **NIPS 2016**
+-  Dynamic Network Surgery for Efficient DNNs. (Intel Labs China)
+-  Memory-Efficient Backpropagation Through Time. (Google DeepMind)
+-  PerforatedCNNs: Acceleration through Elimination of Redundant Convolutions. (Moscow State University, etc.)
+-  Learning Structured Sparsity in Deep Neural Networks. (University of Pittsburgh)
+-  LightRNN: Memory and Computation-Efficient Recurrent Neural Networks. (Nanjing University + Microsoft Research)
+
+### **ICASSP 2017**
 -	lognet: energy-efficient neural networks using logarithmic computation
 -	investigations on byte-level convolutional neural networks for language modeling in low resource speech recognition
 -	extended low rank plus diagonal adaptation for deep and recurrent neural networks
@@ -106,3 +119,6 @@
 -	the group k-support norm for learning with structured sparsity
 -	automatic node selection for deep neural networks using group lasso regularization
 -	accelerating deep convolutional networks using low-precision and sparsity
+
+### **ICML 2017**
+- To be updatted
