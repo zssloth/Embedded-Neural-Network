@@ -81,7 +81,7 @@
 - **Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation**. (@Yoshua Bengio)
 
 ## **Bayesian Compression**
-- To be updatted.
+- To be updated.
 
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
@@ -121,4 +121,4 @@
 -	accelerating deep convolutional networks using low-precision and sparsity
 
 ### **ICML 2017**
-- To be updatted
+- To be updated.
