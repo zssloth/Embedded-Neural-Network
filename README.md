@@ -107,18 +107,13 @@
 -  LightRNN: Memory and Computation-Efficient Recurrent Neural Networks. (Nanjing University + Microsoft Research)
 
 ### **ICASSP 2017**
--	lognet: energy-efficient neural networks using logarithmic computation
--	investigations on byte-level convolutional neural networks for language modeling in low resource speech recognition
--	extended low rank plus diagonal adaptation for deep and recurrent neural networks
--	fixed-point optimization of deep neural networks with adaptive step size retraining
--	harnessing neural networks: a random matrix approach
--	implementation of efficient, low power deep neural networks on next-generation intel client platforms
--	low-rank and sparse soft targets to learn better dnn acoustic models
--	knowledge distillation for small-footprint highway networks
--	exploiting sequential low-rank factorization for multilingual dnns
--	the group k-support norm for learning with structured sparsity
--	automatic node selection for deep neural networks using group lasso regularization
--	accelerating deep convolutional networks using low-precision and sparsity
+-	lognet: energy-efficient neural networks using logarithmic computation. (Stanford University)
+-	extended low rank plus diagonal adaptation for deep and recurrent neural networks. (Microsoft)
+-	fixed-point optimization of deep neural networks with adaptive step size retraining. (Seoul National University)
+-	implementation of efficient, low power deep neural networks on next-generation intel client platforms (Demos). (Intel)
+-	knowledge distillation for small-footprint highway networks. (TTI-Chicago, etc)
+-	automatic node selection for deep neural networks using group lasso regularization. (Doshisha University, etc)
+-	accelerating deep convolutional networks using low-precision and sparsity. (Intel Labs)
 
 ### **ICML 2017**
 - To be updated.
