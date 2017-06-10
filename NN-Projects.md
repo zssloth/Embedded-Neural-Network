@@ -1,6 +1,0 @@
-- [neural enhance](https://github.com/alexjc/neural-enhance) 
-    - Super Resolution for images using deep learning. (Python)
-- [MLAlgorithms](https://github.com/rushter/MLAlgorithms) 
-    - Minimal and clean examples of machine learning algorithms. (Python)
-- [LSTM-Human-Activity-Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/) 
-    - Human activity recognition using smartphones dataset and an LSTM RNN. (TensorFlow)
