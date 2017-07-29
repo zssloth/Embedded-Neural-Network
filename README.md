@@ -126,6 +126,7 @@
 - Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning. (MIT)
 - Network Sketching: Exploiting Binary Structure in Deep CNNs. (Intel Labs China + Tsinghua University)
 - Spatially Adaptive Computation Time for Residual Networks. (Google, etc)
+- A Compact DNN: Approaching GoogLeNet-Level Accuracy of Classification and Domain Adaptation. (University of Pittsburgh, etc)
 
 
 ### **ICML 2017**
