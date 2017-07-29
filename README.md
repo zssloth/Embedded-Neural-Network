@@ -99,6 +99,7 @@
 - Hardware Architecture of Bidirectional Long Short-Term Memory Neural Network for Optical Character Recognition. (University of Kaiserslautern, etc)
 - Efficient Hardware Mapping of Long Short-Term Memory Neural Networks for Automatic Speech Recognition. (Master Thesis@Georgios N. Evangelopoulos)
 - A Fast and Power Efficient Architecture to Parallelize LSTM based RNN for Cognitive Intelligence Applications. (Tsinghua University)
+- Hardware Accelerators for Recurrent Neural Networks on FPGA. (Purdue University, ISCAS 2017)
 - Accelerating Recurrent Neural Networks: A Memory Efficient Approach. (Nanjing University)
 
 ### **Convolutional Neural Networks**
