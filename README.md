@@ -16,8 +16,9 @@
 - [Conference Papers](#conference-papers)
    - [NIPS 2016](#nips-2016)
    - [ICASSP 2017](#icassp-2017)
+   - [CVPR 2017](#cvpr-2017)
    - [ICML 2017](#icml-2017)
-
+   - [ICCV 2017](#iccv-2017)
 ##  **Network Compression**
 ### **Parameter Sharing**
 - **structured matrices**
@@ -33,6 +34,7 @@
 ### **Teacher-Student Mechanism (Distilling)**
 - Distilling the Knowledge in a Neural Network. (Google Inc)
 - Sequence-Level Knowledge Distillation. (Harvard University)
+- Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. (TuSimple)
 
 ### **Fixed-precision training and storage**
 - Binary/Ternary Neural Networks
@@ -79,6 +81,7 @@
 - Adaptive Neural Networks for Fast Test-Time Prediction. (Boston University, etc)
 - Dynamic Deep Neural Networks_Optimizing Accuracy-Efficiency Trade-offs by Selective Execution. (University of Michigan)
 - **Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation**. (@Yoshua Bengio)
+- Multi-Scale Dense Convolutional Networks for Efficient Prediction. (Cornell University, etc)
 
 ## **Bayesian Compression**
 - To be updated.
@@ -93,10 +96,13 @@
 - Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
 - ESE: Efficient Speech Recognition Engine with Compressed LSTM on FPGA. (FPGA 2017, Best Paper Award)
 - DNPU: An 8.1TOPS/W Reconfigurable CNN-RNN Processor for GeneralPurpose Deep Neural Networks. (KAIST, ISSCC 2017)
+- Hardware Architecture of Bidirectional Long Short-Term Memory Neural Network for Optical Character Recognition. (University of Kaiserslautern, etc)
+- Efficient Hardware Mapping of Long Short-Term Memory Neural Networks for Automatic Speech Recognition. (Master Thesis@Georgios N. Evangelopoulos)
+- A Fast and Power Efficient Architecture to Parallelize LSTM based RNN for Cognitive Intelligence Applications. (Tsinghua University)
+- Accelerating Recurrent Neural Networks: A Memory Efficient Approach. (Nanjing University)
 
 ### **Convolutional Neural Networks**
 - Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md)
-
 ## **Conference Papers**
 
 ### **NIPS 2016**
@@ -115,5 +121,27 @@
 -	automatic node selection for deep neural networks using group lasso regularization. (Doshisha University, etc)
 -	accelerating deep convolutional networks using low-precision and sparsity. (Intel Labs)
 
+### **CVPR 2017**
+- Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning. (MIT)
+- Network Sketching: Exploiting Binary Structure in Deep CNNs. (Intel Labs China + Tsinghua University)
+- Spatially Adaptive Computation Time for Residual Networks. (Google, etc)
+
+
 ### **ICML 2017**
-- To be updated.
+- Deep Tensor Convolution on Multicores. (MIT)
+- Beyond Filters: Compact Feature Map for Portable Deep Model. (Peking University + University of Sydney)
+- Combined Group and Exclusive Sparsity for Deep Neural Networks. (UNIST)
+- Delta Networks for Optimized Recurrent Network Computation. (Institute of Neuroinformatics, etc)
+- MEC: Memory-efficient Convolution for Deep Neural Network. (IBM Research)
+- Deciding How to Decide: Dynamic Routing in Artificial Neural Networks. (California Institute of Technology)
+- Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning. (ETH Zurich, etc)
+- Analytical Guarantees on Numerical Precision of Deep Neural Networks. (University of Illinois at Urbana-Champaign)
+- Tensor-Train Recurrent Neural Networks for Video Classification. (Ludwig Maximilian University of Munich, etc)
+- Variational Dropout Sparsifies Deep Neural Networks. (Skoltech, etc)
+- Adaptive Neural Networks for Fast Test-Time Prediction. (Boston University, etc)
+- Theoretical Properties for Neural Networks with Weight Matrices of Low Displacement Rank. (The City University of New York, etc)
+
+### **ICCV 2017**
+- Channel Pruning for Accelerating Very Deep Neural Networks. (Xi’an Jiaotong University + Megvii Inc.)
+- ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression. (Nanjing University, etc)
+
