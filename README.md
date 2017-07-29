@@ -138,7 +138,6 @@
 - Deciding How to Decide: Dynamic Routing in Artificial Neural Networks. (California Institute of Technology)
 - Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning. (ETH Zurich, etc)
 - Analytical Guarantees on Numerical Precision of Deep Neural Networks. (University of Illinois at Urbana-Champaign)
-- Tensor-Train Recurrent Neural Networks for Video Classification. (Ludwig Maximilian University of Munich, etc)
 - Variational Dropout Sparsifies Deep Neural Networks. (Skoltech, etc)
 - Adaptive Neural Networks for Fast Test-Time Prediction. (Boston University, etc)
 - Theoretical Properties for Neural Networks with Weight Matrices of Low Displacement Rank. (The City University of New York, etc)
