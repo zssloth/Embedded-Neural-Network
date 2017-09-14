@@ -19,6 +19,7 @@
    - [CVPR 2017](#cvpr-2017)
    - [ICML 2017](#icml-2017)
    - [ICCV 2017](#iccv-2017)
+   - [NIPS 2017](#nips-2017)
 ##  **Network Compression**
 ### **Parameter Sharing**
 - **structured matrices**
@@ -145,4 +146,8 @@
 ### **ICCV 2017**
 - Channel Pruning for Accelerating Very Deep Neural Networks. (Xi’an Jiaotong University + Megvii Inc.)
 - ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression. (Nanjing University, etc)
+- Learning Efficient Convolutional Networks through Network Slimming. (Intel Labs China, etc)
+- Performance Guaranteed Network Acceleration via High-Order Residual Quantization. (Shanghai Jiao Tong University + Peking University)
 
+### **NIPS 2017**
+- TODO
