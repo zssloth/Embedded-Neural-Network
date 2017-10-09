@@ -148,11 +148,12 @@
 - ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression. (Nanjing University, etc)
 - Learning Efficient Convolutional Networks through Network Slimming. (Intel Labs China, etc)
 - Performance Guaranteed Network Acceleration via High-Order Residual Quantization. (Shanghai Jiao Tong University + Peking University)
+- Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe))
 
 ### **NIPS 2017**
 - Towards Accurate Binary Convolutional Neural Network. (DJI)
 - Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations. (ETH Zurich)
-- TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc)
+- TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc, [github link](https://github.com/wenwei202/terngrad))
 - Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks. (Intel)
 - Bayesian Compression for Deep Learning. (University of Amsterdam, etc)
 - Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon. (Nanyang Technological Univ)
