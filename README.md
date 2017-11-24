@@ -1,6 +1,8 @@
 # **Papers Reading List.**
 - This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md))
-- A good tutorial [here](https://arxiv.org/abs/1703.09039) about this research area.
+- Tutorials:
+   - **Hardware Accelerator**: Efficient Processing of Deep Neural Networks. ([link](https://arxiv.org/abs/1703.09039))
+   - **Model Compression**: Model Compression and Acceleration for Deep Neural Networks. ([link](https://arxiv.org/abs/1710.09282))
 ## **Table of Contents**
 - [Network Compression](#network-compression)
    - Parameter Sharing
@@ -62,6 +64,10 @@
 - Soft Weight-Sharing for Neural Network Compression. (University of Amsterdam, [reddit discussion](https://www.reddit.com/r/MachineLearning/comments/5u7h3l/r_compressing_nn_with_shannons_blessing/))
 - Sparsely-Connected Neural Networks_Towards Efficient VLSI Implementation of Deep Neural Networks. (McGill University)
 - Training Compressed Fully-Connected Networks with a Density-Diversity Penalty. (University of Washington)
+- **Bayesian Compression**
+   - Bayesian Sparsification of Recurrent Neural Networks
+   - Bayesian Compression for Deep Learning
+   - Structured Bayesian Pruning via Log-Normal Multiplicative Noise
 
 ### **Tensor Decomposition**
 - Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications. (Samsung, etc)
@@ -84,13 +90,11 @@
 - **Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation**. (@Yoshua Bengio)
 - Multi-Scale Dense Convolutional Networks for Efficient Prediction. (Cornell University, etc)
 
-## **Bayesian Compression**
-- To be updated.
-
 ## **Hardware Accelerator**
 ### **Benchmark and Platform Analysis**
 - Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
 - DeepBench: Open-Source Tool for benchmarking DL operations. (svail.github.io-Baidu)
+- BENCHIP: Benchmarking Intelligence Processors.
 
 ### **Recurrent Neural Networks**
 - FPGA-based Low-power Speech Recognition with Recurrent Neural Networks. (Seoul National University)
@@ -102,6 +106,11 @@
 - A Fast and Power Efficient Architecture to Parallelize LSTM based RNN for Cognitive Intelligence Applications. (Tsinghua University)
 - Hardware Accelerators for Recurrent Neural Networks on FPGA. (Purdue University, ISCAS 2017)
 - Accelerating Recurrent Neural Networks: A Memory Efficient Approach. (Nanjing University)
+- A Fast and Power Efficient Architecture to Parallelize LSTM based RNN for Cognitive Intelligence Applications.
+- An Energy-Efficient Reconfigurable Architecture for RNNs Using Dynamically Adaptive Approximate Computing.
+- DNPU: An 8.1TOPS/W reconfigurable CNN-RNN processor for general-purpose deep neural networks. 
+- Hardware Architecture of Bidirectional Long Short-Term Memory Neural Network for Optical Character Recognition.
+- A Systolically Scalable Accelerator for Near-Sensor Recurrent Neural Network Inference.
 
 ### **Convolutional Neural Networks**
 - Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md)
@@ -161,3 +170,5 @@
 - Structured Bayesian Pruning via Log-Normal Multiplicative Noise. (Yandex, etc)
 - Runtime Neural Pruning. (Tsinghua University)
 - The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public))
+- Compression-aware Training of Deep Networks. (Toyota Research Institute + EPFL)
+
