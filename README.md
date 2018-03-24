@@ -4,6 +4,7 @@
    - **Hardware Accelerator**: Efficient Processing of Deep Neural Networks. ([link](https://arxiv.org/abs/1703.09039))
    - **Model Compression**: Model Compression and Acceleration for Deep Neural Networks. ([link](https://arxiv.org/abs/1710.09282))
 ## **Table of Contents**
+- [Our Contributions](#our-contributions)
 - [Network Compression](#network-compression)
    - Parameter Sharing
    - Teacher-Student Mechanism (Distilling)
@@ -22,6 +23,9 @@
    - [ICML 2017](#icml-2017)
    - [ICCV 2017](#iccv-2017)
    - [NIPS 2017](#nips-2017)
+   - [ICLR 2018](#iclr-2018)
+##  **Our Contributions**
+- **TODO**
 ##  **Network Compression**
 ### **Parameter Sharing**
 - **structured matrices**
@@ -172,3 +176,14 @@
 - The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public))
 - Compression-aware Training of Deep Networks. (Toyota Research Institute + EPFL)
 
+### **ICLR 2018**
+- Oral
+   - Training and Inference with Integers in Deep Neural Networks. (Tsinghua University)
+- Poster
+   - Learning Sparse NNs Through L0 Regularization
+   - Learning Intrinsic Sparse Structures within Long Short-Term Memory
+   - Variantional Network Quantization
+   - Alternating Multi-BIT Quantization for Recurrent Neural Networks
+   - Mixed Precision Training
+   - Multi-Scale Dense Networks for Resource Efficient Image Classification
+   - **Other to be added.**
