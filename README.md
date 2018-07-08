@@ -24,6 +24,7 @@
    - [ICCV 2017](#iccv-2017)
    - [NIPS 2017](#nips-2017)
    - [ICLR 2018](#iclr-2018)
+   - [CVPR 2018](#cvpr-2018)
 ##  **Our Contributions**
 - **TODO**
 ##  **Network Compression**
@@ -187,3 +188,21 @@
    - Mixed Precision Training
    - Multi-Scale Dense Networks for Resource Efficient Image Classification
    - **Other to be added.**
+### **CVPR 2018**
+- Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions
+- ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+- Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
+- BlockDrop: Dynamic Inference Paths in Residual Networks
+- SYQ: Learning Symmetric Quantization for Efficient Deep Neural Networks
+- Two-Step Quantization for Low-Bit Neural Networks
+- Towards Effective Low-Bitwidth Convolutional Neural Networks
+- Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks
+- CLIP-Q: Deep Network Compression Learning by In-Parallel Pruning-Quantization
+- “Learning-Compression” Algorithms for Neural Net Pruning
+- Wide Compression: Tensor Ring Nets
+- NestedNet: Learning Nested Sparse Structures in Deep Neural Networks
+- Interleaved Structured Sparse Convolutional Neural Networks
+- NISP: Pruning Networks Using Neuron Importance Score Propagation
+- Learning Compact Recurrent Neural Networks With Block-Term Tensor Decomposition
+- HydraNets: Specialized Dynamic Architectures for Efficient Inference
+- Learning Time/Memory-Efficient Deep Architectures With Budgeted Super Networks
