@@ -12,22 +12,17 @@
    - Sparsity regularizers & Pruning
    - Tensor Decomposition
    - Conditional (Adaptive) Computing
-   - Compression through Bayesian Method
 - [Hardware Accelerator](#hardware-accelerator)
    - Benchmark and Platform Analysis
    - Recurrent Neural Networks
 - [Conference Papers](#conference-papers)
-   - [NIPS 2016](#nips-2016)
-   - [ICASSP 2017](#icassp-2017)
-   - [CVPR 2017](#cvpr-2017)
-   - [ICML 2017](#icml-2017)
-   - [ICCV 2017](#iccv-2017)
-   - [NIPS 2017](#nips-2017)
-   - [ICLR 2018](#iclr-2018)
-   - [CVPR 2018](#cvpr-2018)
+   - 2016: [NIPS](#nips-2016)
+   - 2017: [ICASSP](#icassp-2017)、[CVPR](#cvpr-2017)、[ICML](#icml-2017)、[ICCV](#iccv-2017)、[NIPS](#nips-2017)
+   - 2018：[ICLR](#iclr-2018)、[CVPR](#cvpr-2018)、[ECCV](#eccv-2018)、[ICML](#icml-2018)
 ##  **Our Contributions**
 - **TODO**
 ##  **Network Compression**
+> **This field is changing rapidly, belowing entries may be somewhat antiquated.**
 ### **Parameter Sharing**
 - **structured matrices**
    - Structured Convolution Matrices for Energy-efficient Deep learning. (IBM Research–Almaden)
@@ -187,7 +182,23 @@
    - Alternating Multi-BIT Quantization for Recurrent Neural Networks
    - Mixed Precision Training
    - Multi-Scale Dense Networks for Resource Efficient Image Classification
-   - **Other to be added.**
+   - efficient sparse-winograd CNNs
+   - Compressing Wrod Embedding via Deep Compositional Code Learning
+   - Mixed Precision Training of Convolutional Neural Networks using Integer Operations
+   - Adaptive Quantization of Neural Networks
+   - Espresso_Efficient Forward Propagation for Binary Deep Neural Networks
+   - WRPN_Wide Reduced-Precision Networks
+   - Deep Rewiring_Training very sparse deep networks
+   - Loss-aware Weight Quantization of Deep Network
+   - Learning to share_simultaneous parameter tying and sparsification in deep learning
+   - Deep Gradient Compression_Reducing the Communication Bandwidth for Distributed Training
+   - Large scale distributed neural network training through online distillation
+   - Learning Discrete Weights Using the Local Reparameterization Trick
+   - Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers
+   - Training wide residual networks for deployment using a single bit for each weight
+   - The High-Dimensional Geometry of Binary Neural Networks
+- workshop
+   - To Prune or Not to Prune_Exploring the Efficacy of Pruning for Model Compression
 ### **CVPR 2018**
 - Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions
 - ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
@@ -206,3 +217,32 @@
 - Learning Compact Recurrent Neural Networks With Block-Term Tensor Decomposition
 - HydraNets: Specialized Dynamic Architectures for Efficient Inference
 - Learning Time/Memory-Efficient Deep Architectures With Budgeted Super Networks
+### **ECCV 2018**
+- ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+- A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers
+- **Learning Compression from Limited Unlabeled Data**
+- **AMC: AutoML for Model Compression and Acceleration on Mobile Devices**
+- Training Binary Weight Networks via Semi-Binary Decomposition
+- Clustering Convolutional Kernels to Compress Deep Neural Networks
+- Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm
+- Data-Driven Sparse Structure Selection for Deep Neural Networks
+- Coreset-Based Neural Network Compression
+- Convolutional Networks with Adaptive Inference Graphs
+- Value-aware Quantization for Training and Inference of Neural Networks
+- LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks
+- Deep Expander Networks: Efficient Deep Networks from Graph Theory
+- Extreme Network Compression via Filter Group Approximation
+- Constraint-Aware Deep Neural Network Compression
+### **ICML 2018**
+- Compressing Neural Networks using the Variational Information Bottleneck
+- DCFNet_Deep Neural Network with Decomposed Convolutional Filters
+- Deep k-Means Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions
+- Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization
+- High Performance Zero-Memory Overhead Direct Convolutions
+- Kronecker Recurrent Units
+- Learning Compact Neural Networks with Regularization
+- StrassenNets_Deep Learning with a Multiplication Budge
+- Weightless_Lossy weight encoding for deep neural network compression
+- WSNet_Compact and Efficient Networks Through Weight Sampling
+
+
