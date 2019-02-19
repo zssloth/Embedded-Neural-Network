@@ -19,6 +19,7 @@
    - 2016: [NIPS](#nips-2016)
    - 2017: [ICASSP](#icassp-2017)、[CVPR](#cvpr-2017)、[ICML](#icml-2017)、[ICCV](#iccv-2017)、[NIPS](#nips-2017)
    - 2018：[ICLR](#iclr-2018)、[CVPR](#cvpr-2018)、[ECCV](#eccv-2018)、[ICML](#icml-2018)
+   - 2019：[ICLR](#iclr-2019)
 ##  **Our Contributions**
 - **TODO**
 ##  **Network Compression**
@@ -245,4 +246,24 @@
 - Weightless_Lossy weight encoding for deep neural network compression
 - WSNet_Compact and Efficient Networks Through Weight Sampling
 
-
+### **ICLR 2019**
+- Poster:
+   - SNIP: SINGLE-SHOT NETWORK PRUNING BASED ON CONNECTION SENSITIVITY
+   - Rethinking the Value of Network Pruning
+   - Non-vacuous Generalization Bounds at the ImageNet Scale: a PAC-Bayesian Compression Approach
+   - Dynamic Channel Pruning: Feature Boosting and Suppression
+   - Energy-Constrained Compression for Deep Neural Networks via Weighted Sparse Projection and Layer Input Masking
+   - Slimmable Neural Networks
+   - RotDCF: Decomposition of Convolutional Filters for Rotation-Equivariant Deep Networks
+   - Dynamic Sparse Graph for Efficient Deep Learning
+   - Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition
+   - Data-Dependent Coresets for Compressing Neural Networks with Applications to Generalization Bounds
+   - Learning Recurrent Binary/Ternary Weights
+   - Double Viterbi: Weight Encoding for High Compression Ratio and Fast On-Chip Reconstruction for Deep Neural Network
+   - Relaxed Quantization for Discretized Neural Networks
+   - Integer Networks for Data Compression with Latent-Variable Models
+   - Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters
+   - A Systematic Study of Binary Neural Networks' Optimisation
+   - Analysis of Quantized Models
+- Oral:
+   - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
