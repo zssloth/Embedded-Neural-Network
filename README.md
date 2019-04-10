@@ -18,8 +18,8 @@
 - [Conference Papers](#conference-papers)
    - 2016: [NIPS](#nips-2016)
    - 2017: [ICASSP](#icassp-2017)、[CVPR](#cvpr-2017)、[ICML](#icml-2017)、[ICCV](#iccv-2017)、[NIPS](#nips-2017)
-   - 2018：[ICLR](#iclr-2018)、[CVPR](#cvpr-2018)、[ECCV](#eccv-2018)、[ICML](#icml-2018)
-   - 2019：[ICLR](#iclr-2019)
+   - 2018：[ICLR](#iclr-2018)、[CVPR](#cvpr-2018)、[ECCV](#eccv-2018)、[ICML](#icml-2018)、[NIPS](#nips-2018)
+   - 2019：[ICLR](#iclr-2019)、[CVPR](#cvpr-2019)
 ##  **Our Contributions**
 - **TODO**
 ##  **Network Compression**
@@ -78,7 +78,7 @@
 - Efficient and Accurate Approximations of Nonlinear Convolutional Networks. (@CVPR2015)
 - Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation. (New York University, etc.)
 - Convolutional neural networks with low-rank regularization. (Princeton University, etc.)
-- **Learning with Tensors: Why Now and How?** (Tensor-Learn Workshop @ NIPS'16)
+- Learning with Tensors: Why Now and How? (Tensor-Learn Workshop @ NIPS'16)
 
 ##  **Conditional (Adaptive) Computing**
 - Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind@Alex Graves)
@@ -246,6 +246,8 @@
 - Weightless_Lossy weight encoding for deep neural network compression
 - WSNet_Compact and Efficient Networks Through Weight Sampling
 
+### **NIPS 2018**
+
 ### **ICLR 2019**
 - Poster:
    - SNIP: SINGLE-SHOT NETWORK PRUNING BASED ON CONNECTION SENSITIVITY
@@ -267,3 +269,8 @@
    - Analysis of Quantized Models
 - Oral:
    - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+### **CVPR 2019**
+- All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification
+- Towards Optimal Structured CNN Pruning via Generative Adversarial Learning
+- T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor
+- Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
