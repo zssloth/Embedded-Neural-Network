@@ -247,6 +247,33 @@
 - WSNet_Compact and Efficient Networks Through Weight Sampling
 
 ### **NIPS 2018**
+- workshops
+   - [Systems for ML and Open Source Software](http://learningsys.org/nips18/schedule.html)
+   - [Compact Deep Neural Network Representation with Industrial Applications](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA#accepted-papers)
+   - [2nd Workshop on Machine Learning on the Phone and other Consumer Devices (MLPCD 2)](https://sites.google.com/view/nips-2018-on-device-ml/call-for-papers)
+- 7761-scalable-methods-for-8-bit-training-of-neural-networks
+- 7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks
+- 7697-sparsified-sgd-with-memory
+- 7994-training-deep-neural-networks-with-8-bit-floating-point-numbers
+- 7358-kdgan-knowledge-distillation-with-generative-adversarial-networks
+- 7980-knowledge-distillation-by-on-the-fly-native-ensemble
+- 8292-multiple-instance-learning-for-efficient-sequential-data-classification-on-resource-constrained-devices
+- 7553-moonshine-distilling-with-cheap-convolutions
+- 7341-hitnet-hybrid-ternary-recurrent-neural-network
+- 8116-fastgrnn-a-fast-accurate-stable-and-tiny-kilobyte-sized-gated-recurrent-neural-network
+- 7327-training-dnns-with-hybrid-block-floating-point
+- 8117-reversible-recurrent-neural-networks
+- 485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-networks
+- 8218-synaptic-strength-for-convolutional-neural-network
+- 7666-tetris-tile-matching-the-tremendous-irregular-sparsity
+- 7644-learning-sparse-neural-networks-via-sensitivity-driven-regularization
+- 7466-pelee-a-real-time-object-detection-system-on-mobile-devices
+- 7433-learning-versatile-filters-for-efficient-convolutional-neural-networks
+- 7841-multi-task-zipping-via-layer-wise-neuron-sharing
+- 7519-a-linear-speedup-analysis-of-distributed-deep-learning-with-sparse-and-quantized-communication
+- 7759-gradiveq-vector-quantization-for-bandwidth-efficient-gradient-aggregation-in-distributed-cnn-training
+- 8191-atomo-communication-efficient-learning-via-atomic-sparsification
+- 7405-gradient-sparsification-for-communication-efficient-distributed-optimization
 
 ### **ICLR 2019**
 - Poster:
