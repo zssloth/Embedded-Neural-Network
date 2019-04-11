@@ -18,8 +18,8 @@
 - [Conference Papers](#conference-papers)
    - 2016: [NIPS](#nips-2016)
    - 2017: [ICASSP](#icassp-2017)、[CVPR](#cvpr-2017)、[ICML](#icml-2017)、[ICCV](#iccv-2017)、[NIPS](#nips-2017)
-   - 2018：[ICLR](#iclr-2018)、[CVPR](#cvpr-2018)、[ECCV](#eccv-2018)、[ICML](#icml-2018)、[NIPS](#nips-2018)
-   - 2019：[ICLR](#iclr-2019)、[CVPR](#cvpr-2019)
+   - 2018：[ICLR](#iclr-2018)、[CVPR](#cvpr-2018)、[ECCV](#eccv-2018)、[ICML](#icml-2018)、[NIPS](#nips-2018)、[SysML](http://www.sysml.cc/2018/)
+   - 2019：[ICLR](#iclr-2019)、[CVPR](#cvpr-2019)、[SysML](https://www.sysml.cc/)
 ##  **Our Contributions**
 - **TODO**
 ##  **Network Compression**
@@ -301,3 +301,4 @@
 - Towards Optimal Structured CNN Pruning via Generative Adversarial Learning
 - T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor
 - Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
+- others to be added
