@@ -96,6 +96,8 @@
 - Fathom: Reference Workloads for Modern Deep Learning Methods. (Harvard University)
 - DeepBench: Open-Source Tool for benchmarking DL operations. (svail.github.io-Baidu)
 - BENCHIP: Benchmarking Intelligence Processors.
+- [DAWNBench](https://dawn.cs.stanford.edu//benchmark/): An End-to-End Deep Learning Benchmark and Competition. (Stanford)
+- [MLPerf](https://mlperf.org/): A broad ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms.
 
 ### **Recurrent Neural Networks**
 - FPGA-based Low-power Speech Recognition with Recurrent Neural Networks. (Seoul National University)
@@ -104,14 +106,18 @@
 - DNPU: An 8.1TOPS/W Reconfigurable CNN-RNN Processor for GeneralPurpose Deep Neural Networks. (KAIST, ISSCC 2017)
 - Hardware Architecture of Bidirectional Long Short-Term Memory Neural Network for Optical Character Recognition. (University of Kaiserslautern, etc)
 - Efficient Hardware Mapping of Long Short-Term Memory Neural Networks for Automatic Speech Recognition. (Master Thesis@Georgios N. Evangelopoulos)
-- A Fast and Power Efficient Architecture to Parallelize LSTM based RNN for Cognitive Intelligence Applications. (Tsinghua University)
 - Hardware Accelerators for Recurrent Neural Networks on FPGA. (Purdue University, ISCAS 2017)
 - Accelerating Recurrent Neural Networks: A Memory Efficient Approach. (Nanjing University)
 - A Fast and Power Efficient Architecture to Parallelize LSTM based RNN for Cognitive Intelligence Applications.
 - An Energy-Efficient Reconfigurable Architecture for RNNs Using Dynamically Adaptive Approximate Computing.
-- DNPU: An 8.1TOPS/W reconfigurable CNN-RNN processor for general-purpose deep neural networks. 
-- Hardware Architecture of Bidirectional Long Short-Term Memory Neural Network for Optical Character Recognition.
 - A Systolically Scalable Accelerator for Near-Sensor Recurrent Neural Network Inference.
+- A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications
+- E-PUR: An Energy-Efficient Processing Unit for Recurrent Neural Networks
+- C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs (FPGA 2018, Peking Univ, Syracuse Univ, CUNY)
+- DeltaRNN: A Power-efficient Recurrent Neural Network Accelerator. (FPGA 2018, ETHZ, BenevolentAI)
+- Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs (MACRO 2018)
+- E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs (HPCA 2019)
+
 
 ### **Convolutional Neural Networks**
 - Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md)
